@@ -24,3 +24,28 @@ This project focuses on delivering smooth animations, video backgrounds, and hig
 
 
 📂 Folder Structure
+┣ 📂 Assets
+┃ ┣ 📜 images / videos / favicon
+┣ 📜 index.html
+┣ 📜 rejouice.css
+┣ 📜 script.js
+┗ 📜 README.md
+
+
+## ⚡ Getting Started
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/jhinusahani/rejouice-clone.git
+
+
+⚡ Recommendation:  
+- Push repo as **`rejouice-clone`**.  
+- Use **GitHub Pages** deployment → so you can share live link (`https://jhinusahani.github.io/rejouice-clone`).  
+- Add preview screenshots or video demo in README.  
+
+
+👉 Do you want me to also create a **ready-to-use `script.js` file** (with GSAP + Locomotive + Swiper integration) so your repo looks complete before you upload?
+
+
+   
+
