@@ -1,6 +1,6 @@
 function loader(){
   var tl = gsap.timeline()
-/* ===( CODE AASHU )=== */
+/* ===( AShish Sahani)=== */
 tl.from(".loader span",{
   x:100,
   duration:1.2,
@@ -301,4 +301,5 @@ page6Anim();
 page7TopAnim();
 loader();
 menuAnim();
+
 swiper();
